@@ -37,7 +37,7 @@ body {
   border-radius: 20px;
 }
 
-.content {
+.card--content {
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -46,7 +46,7 @@ body {
   margin-top: 24px;
 }
 
-img {
+.card--image {
   width: 288px;
   height: auto;
   border-radius: 10px;
