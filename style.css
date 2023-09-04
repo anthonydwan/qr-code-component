@@ -12,12 +12,18 @@ p {
   font-family: Outfit;
 }
 
+:root {
+  --primary-bg-color: #d5e1ef;
+  --primary-text-color: #7d889e;
+  --heading1-color: #1f314f;
+}
+
 body {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #d5e1ef;
+  background-color: var(--primary-bg-color);
 }
 
 .card {
@@ -47,13 +53,13 @@ img {
 }
 
 h1 {
-  color: #1f314f;
+  color: var(--heading1-color);
   font-size: 22px;
   font-weight: 700;
 }
 
 p {
-  color: var(--Grey, #7d889e);
+  color: var(--primary-text-color);
   font-size: 15px;
   font-weight: 400;
   letter-spacing: 0.188px;

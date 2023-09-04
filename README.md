@@ -21,26 +21,23 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-component-with-htmlcss-only-Np47jYra0b)
+- Live Site URL: [Add live site URL here](https://anthonydwan.github.io/qr-code-component/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- CSS custom properties
 
 ### What I learned
 
 This challenge was a refresher on basic frontend concepts that I had learnt and used at work as a frontend engineer. This included:
 
-- using flexbox;
--
-
-
+- using flexbox
+- CSS custom properties to set the colors
 
 ### Continued development
 
@@ -50,12 +47,8 @@ While I was able to complete this mini-challenge without much trouble, there are
 - Gain more experience referencing Figma models
 - Recognizing redundant css styles
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ## Author
 
 - Website - [Anthony Wan](https://www.your-site.com)
 - Frontend Mentor - [@anthonydwan](https://www.frontendmentor.io/profile/anthonydwan)
 - LinkedIn - [Anthony Wan](https://www.linkedin.com/in/anthony-w-230452a2/)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
